@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.02      2013-07-26 07:15:57 America/New_York
   - make an alias for the correctly spelled version: nx resolvconf
 
 0.01      2013-07-24 11:50:47 America/New_York
